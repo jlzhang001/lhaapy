@@ -1,1 +1,1 @@
-# lhaapy-- LHAASO Astronomy tools with PYthon
+# lhaapy-- LHAaso Astronomy tools with PYthon
