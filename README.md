@@ -11,7 +11,8 @@ lhaapy is a lhaaso high level data analysis tool for astronomer.
     License: ?
 
 
-Project Backgroud:    
+Project Backgroud:   
+
 China has started the construction of one of the world's largest and most sensitive cosmic-ray facilities. Located about 4,410 meters above sea level in the mountainous areas in southwest China’s Sichuan Province, the 1.2 billion yuan ($180m) Large High Altitude Air Shower Observatory (LHAASO) will attempt to search for the origin of high energy cosmic rays, to study the evolution of the universe and high energy celestial bodies, as well as to push forward the frontier of new physics.
 
 The project was approved by the National Development and Reform Commission, China's top economic planning body, on December 31, 2015. The construction of the LHAASO is set for completion in January 2021. The project will be a key frontier project for cosmic ray research internationally.
